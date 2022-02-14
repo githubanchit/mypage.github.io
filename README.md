@@ -1,7 +1,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>My Page😜</title>
 <center><img src="mypagee.jpg" width="200p" height="200"></center>
 
     <style media="screen">
@@ -44,11 +43,9 @@ width:8%;
 <li><a href="https://www.amazon.in/How-Stop-Worrying-Start-Living/dp/8175993952/ref=sr_1_5?crid=MGGCHVHEOPHT&keywords=books&qid=1644866898&refinements=p_72%3A1318476031%2Cp_n_feature_three_browse-bin%3A9141482031&rnid=9141481031&s=books&sprefix=book%2Caps%2C1172&sr=1-5">Dale Carnegie</a></li>
 <li><a href="https://www.amazon.in/Memory-How-Develop-Train-Use/dp/9389053811/ref=sr_1_7?crid=MGGCHVHEOPHT&keywords=books&qid=1644866898&refinements=p_72%3A1318476031%2Cp_n_feature_three_browse-bin%3A9141482031&rnid=9141481031&s=books&sprefix=book%2Caps%2C1172&sr=1-7">William Walker Atkinson</a></li>
 <li><a href="https://www.amazon.in/Gentleman-Moscow-Amor-Towles/dp/0099558785/ref=sr_1_4?crid=27L17IZ1J9LOJ&keywords=books+bestsellers&qid=1644867498&s=books&sprefix=books+%2Cstripbooks%2C764&sr=1-4">Amor Towles</a></li>
-</ul>
-<hr><br>
+</ul><hr><br>
 
-<h1><center><em>
-  THANK YOU FOR YOUR PRECIOUS TIME😉😉😇😇
-</em></h1>
+<h1><center><em>THANK YOU FOR YOUR PRECIOUS TIME😉😉😇😇</em></h1>
+  
 </body>
 </html>
